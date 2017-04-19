@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Meu Tempo</string>
+    <string name="menu_settings">Configurações</string>
+
+    <string name="content_authority">br.com.cafecomandroid.meutempo.sync</string>
+    <string name="sync_account_type">cafecomandroid.com.br</string>
+    <string name="default_valor">30º</string>
+    <string name="label_pressao">Pressão</string>
+    <string name="label_umidade">Umidade</string>
+    <string name="app_configuration">Configuração</string>
+    <string name="et_numdias_cnt">Número de dias</string>
+    <string name="celcius">Graus Celsius</string>
+    <string name="fahrenheit">Graus Fahrenheit</string>
+    <string name="label_conf_cnt">Quantidade de dias para ser mostrado na listagem</string>
+    <string name="et_locale">Cidade</string>
+    <string name="label_conf_locale">Insira o nome da cidade</string>
+    <string name="label_conf_units">Selecione a unidade de tempo</string>
+</resources>
